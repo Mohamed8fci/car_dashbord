@@ -5,4 +5,4 @@
 
 #run the project
 
-##write in emulator "flutter run -d chrome"
+##write in terminal "flutter run -d chrome"
